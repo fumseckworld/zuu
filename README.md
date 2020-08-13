@@ -1,2 +1,2 @@
 # zuu
-The ji compiler 
+Admin for all websites on a server
