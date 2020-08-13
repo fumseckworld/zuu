@@ -1,7 +1,8 @@
 {
     "name": "zuu/zuu",
-    "description": "a",
-    "type": "library",
+    "description": "Manage all server websites from one interface",
+    "type": "project",
+	"license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Willy Micieli",
