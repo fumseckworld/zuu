@@ -1,0 +1,12 @@
+{
+    "name": "zuu/zuu",
+    "description": "a",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Willy Micieli",
+            "email": "micieli@outlook.fr"
+        }
+    ],
+    "require": {}
+}
